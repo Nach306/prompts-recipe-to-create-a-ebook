@@ -13,7 +13,7 @@ seguem abaixo.
 
 [ChatGPT](https://chatgpt.com/)
 
-[Google Slides](https://docs.google.com/presentation/create)
+[Google Presentations](https://docs.google.com/presentation/create)
 
 [Flux Fast](https://fluxai.pro/)
 
@@ -24,36 +24,30 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | faça um texto para ebook, com foco na história da Inteligência Artificial (IA), listando fatos históricos desde a criação da IA até hoje
-
-{REGRAS}
->crie um título chamativo, 3 opções
->explique de uma maneira lúdica
->deixe o formato enxuto
->sempre deixe um título sugestivo por tópico
->linguagem informal, público crianças de 10 anos |
+| conteúdo | faça um texto para ebook, com foco na história da Inteligência Artificial (IA), listando fatos históricos desde a criação da IA até hoje. {REGRAS} Crie um título chamativo, 3 opções. Explique de uma maneira lúdica. Deixe o formato enxuto. Sempre deixe um título sugestivo por tópico. Linguagem informal, público crianças de 10 anos |
 
 
-Midjourney：
+Flux Fast：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
+| capa | images that represent the evolution of Artificial Intelligence, starting with no technology until today with a lot of technology. Cinematic photo. 35mm photograph, film, bokeh, professional, 4k, highly detailed 
+|
+| parte 1 | vintage computer with blinking lights, a robotic arm on the side reaching for a tape, blurry background with retro-futuristic elements. Fresh and vibrant with a fun and bold style, featuring multicolor gradients and vivid shades of navy, yellow, and orange for a playful, modern look. 
+|
+| parte 2 | chess board with a computer hand reaching for a piece, a human hand in the background about to play, tense atmosphere, low light, dramatic shadows. Fresh and vibrant with a fun and bold style, featuring multicolor gradients and vivid shades of navy, yellow, and orange for a playful, modern look. 
+|
+| parte 3 | Google images 
+|
+|parte 4 | An illustrated digital collage showcasing various applications of artificial intelligence, including virtual assistants, content recommendation systems, and AI-powered advancements in medicine, security, gaming, and music. Fresh and vibrant with a fun and bold style, featuring multicolor gradients and vivid shades of navy, yellow, and orange for a playful, modern look. 
+|
+| parte 5 | vintage computer with blinking lights, a robotic arm on the side reaching for a tape, blurry background with retro-futuristic elements. Fresh and vibrant with a fun and bold style, featuring multicolor gradients and vivid shades of navy, yellow, and orange for a playful, modern look. 
+|
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+- Imagens geradas via Flux Fast
+- Montagem pelo Google Presentations
 
 ## 👨‍💻 Expert
 
