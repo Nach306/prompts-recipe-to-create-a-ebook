@@ -29,20 +29,20 @@ ChatGPT：
 
 Flux Fast：
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
+||   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  capa  | images that represent the evolution of Artificial Intelligence, starting with no technology until today with a lot of technology. Cinematic photo. 35mm photograph, film, bokeh, professional, 4k, highly detailed                                                        |
 | capa | images that represent the evolution of Artificial Intelligence, starting with no technology until today with a lot of technology. Cinematic photo. 35mm photograph, film, bokeh, professional, 4k, highly detailed 
-|
+      |
 | parte 1 | vintage computer with blinking lights, a robotic arm on the side reaching for a tape, blurry background with retro-futuristic elements. Fresh and vibrant with a fun and bold style, featuring multicolor gradients and vivid shades of navy, yellow, and orange for a playful, modern look. 
-|
+      |
 | parte 2 | chess board with a computer hand reaching for a piece, a human hand in the background about to play, tense atmosphere, low light, dramatic shadows. Fresh and vibrant with a fun and bold style, featuring multicolor gradients and vivid shades of navy, yellow, and orange for a playful, modern look. 
-|
+     |
 | parte 3 | Google images 
-|
+     |
 |parte 4 | An illustrated digital collage showcasing various applications of artificial intelligence, including virtual assistants, content recommendation systems, and AI-powered advancements in medicine, security, gaming, and music. Fresh and vibrant with a fun and bold style, featuring multicolor gradients and vivid shades of navy, yellow, and orange for a playful, modern look. 
-|
-| parte 5 | vintage computer with blinking lights, a robotic arm on the side reaching for a tape, blurry background with retro-futuristic elements. Fresh and vibrant with a fun and bold style, featuring multicolor gradients and vivid shades of navy, yellow, and orange for a playful, modern look. 
-|
+     |
+| parte 5 | vintage computer with blinking lights, a robotic arm on the side reaching for a tape, blurry background with retro-futuristic elements. Fresh and vibrant with a fun and bold style, featuring multicolor gradients and vivid shades of navy, yellow, and orange for a playful, modern look. |
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
